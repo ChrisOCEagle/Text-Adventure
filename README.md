@@ -6,7 +6,7 @@
 **You must decide which timeline to follow and which child to give up.**
 
 ### Beginning and Ending Phrase
-*This adventure will start and end with the same phrase*
+*This adventure will start and end with the same phrase*  
 **Start does *NOT* include character creation**
 > I never wanted to be a \*(*Father*/*Mother*)\*.
 1. Beginning Phrase:  
