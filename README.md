@@ -17,3 +17,5 @@
     I knew that my children would end up hating me, but the reason why I never could have guessed.
     > God…
     >> I never wanted to be a \*(*Father*/*Mother*)\*.
+
+### The Player Character
