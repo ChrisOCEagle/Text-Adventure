@@ -19,3 +19,4 @@
     >> I never wanted to be a \*(*Father*/*Mother*)\*.
 
 ### The Player Character
+The player character will have a name, a gender, a profession, and actions. The actions that the player character is capable of taking are moving and picking things up.
