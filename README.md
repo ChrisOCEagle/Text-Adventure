@@ -10,8 +10,7 @@
 **Start does *NOT* include character creation**
 1. > I never wanted to be a \*(*Father*/*Mother*)\*.
     1. Beginning Phrase:
-        1. > I never wanted to be a \*(*Father*/*Mother*)\*.
-        I always thought that at some point I would fuck it up.
+        1. > I never wanted to be a \*(*Father*/*Mother*)\*. < I always thought that at some point I would fuck it up.
     1. Ending Phrase:
         1. I knew that my children would end up hating me, but the reason why I never could have guessed.
         > God… I never wanted to be a \*(*Father*/*Mother*)\*.
